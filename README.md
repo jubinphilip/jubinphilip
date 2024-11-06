@@ -117,11 +117,10 @@ const jubin = {
             css: ["tailwind", "bootstrap"]
         },
         backEnd: {
-            js: ["Node", "Express"],
-            python: ["flask"]
+            js: ["Node", "Express"]
         },
         databases: ["MongoDB", "PostgreSQL", "MySQL"],
-        misc: ["Firebase", "Socket.IO", "GraphQL"]
+        misc: [ "GraphQL"]
     }
 };
 ```
