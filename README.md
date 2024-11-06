@@ -9,12 +9,16 @@
 Currently a MERN Stack Trainee at Techfriar Technologies, passionate about building scalable web applications and exploring new technologies.
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/jubin-philip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jubin philip" height="30" width="40" /></a>
-  <a href="mailto:jubinphilip25@gmail.com"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="Email" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/jubin-philip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="mailto:jubinphilip25@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" height="30" width="40" /></a>
+  <a href="https://jubinphilip.netlify.app" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/ffffff/globe--v1.png" alt="Portfolio" height="30" width="40" /></a>
 </p>
+
+
+
+
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40"> Skills & Technologies
 
@@ -109,7 +113,7 @@ Currently a MERN Stack Trainee at Techfriar Technologies, passionate about build
 ```javascript
 const jubin = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "TypeScript", "Python", "Java", "PHP"],
+    code: ["Javascript", "TypeScript", "Python", "Java", "PHP","C"],
     askMeAbout: ["web dev", "tech", "photography"],
     technologies: {
         frontEnd: {
