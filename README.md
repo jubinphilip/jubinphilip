@@ -16,10 +16,6 @@ Currently a MERN Stack Trainee at Techfriar Technologies, passionate about build
   <a href="https://jubinphilip.netlify.app" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/ffffff/globe--v1.png" alt="Portfolio" height="30" width="40" /></a>
 </p>
 
-
-
-
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40"> Skills & Technologies
 
 ### Programming Languages
@@ -34,7 +30,9 @@ Currently a MERN Stack Trainee at Techfriar Technologies, passionate about build
 ### Frontend Development
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+  <img src="https://vitejs.dev/logo.svg" alt="vite" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40" style="background-color: white; padding: 3px; border-radius: 5px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
@@ -45,8 +43,9 @@ Currently a MERN Stack Trainee at Techfriar Technologies, passionate about build
 ### Backend Development
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40" style="background-color: white; padding: 3px; border-radius: 5px;"/>
   <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" alt="JWT" width="40" height="40" style="background-color: white; padding: 3px; border-radius: 5px;"/>
 </p>
 
 ### Database
@@ -112,18 +111,18 @@ Currently a MERN Stack Trainee at Techfriar Technologies, passionate about build
 ```javascript
 const jubin = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "TypeScript", "Python", "Java", "PHP","C"],
+    code: ["Javascript", "TypeScript", "Python", "Java", "PHP", "C"],
     askMeAbout: ["web dev", "tech", "photography"],
     technologies: {
         frontEnd: {
-            js: ["React", "Next.js"],
-            css: ["tailwind", "bootstrap"]
+            js: ["React", "Next.js", "Redux", "Vite"],
+            css: ["tailwind", "bootstrap", "sass"]
         },
         backEnd: {
-            js: ["Node", "Express"]
+            js: ["Node", "Express", "JWT"]
         },
         databases: ["MongoDB", "PostgreSQL", "MySQL"],
-        misc: [ "GraphQL"]
+        misc: ["GraphQL", "Firebase", "Docker"]
     }
 };
 ```
