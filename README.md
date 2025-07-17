@@ -6,7 +6,7 @@ Junior Software Developer at CourtClick (Digilaw Legal Software Pvt Ltd), passio
 
 ## 🚀 About Me
 
-I'm a junior software developer with 6+ months of professional experience in modern web technologies. I work on legal software solutions and am passionate about creating user-friendly applications that solve real-world problems.
+I'm a junior software developer with 5+ months of professional experience in modern web technologies. I work on legal software solutions and am passionate about creating user-friendly applications that solve real-world problems.
 
 🎓 **Education:** MCA from Nirmala College Muvattupuzha (2022-2024)  
 💼 **Currently:** Junior Software Developer at CourtClick (Digilaw Legal Software Pvt Ltd)  
