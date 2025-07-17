@@ -14,15 +14,6 @@ const myStack = {
 
 // Always adding new tools to this list 🛠️
 ```
-
-
-## 🚀 Recent Adventures
-
-- Making courthouse workflows actually enjoyable to use
-- Discovering new ways to break CSS (and fix it again)
-- Teaching databases to speak fluent legal jargon
-- Convincing React components to behave themselves
-
 ## 📡 Find Me Here
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jubin-philip)
