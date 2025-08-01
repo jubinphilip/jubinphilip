@@ -21,7 +21,3 @@ const myStack = {
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jubinphilip25@gmail.com)
 
 ---
-
-<div align="center">
-  <i>🎵 "99 little bugs in the code, 99 little bugs. Take one down, patch it around, 127 little bugs in the code." 🎵</i>
-</div>
