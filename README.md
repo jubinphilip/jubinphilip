@@ -39,7 +39,7 @@ const myStack = {
     ],
 
     toolsAndAutomation: [
-        'VS Code', 'Postman', 'Redis Queue (RQ)',
+        'Postman', 'Redis Queue (RQ)',
         'Web Scraping', 'Background Workers',
         'Cron Jobs', 'GitHub Actions'
     ],
