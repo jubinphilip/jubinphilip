@@ -4,7 +4,7 @@ Currently turning legal complexities into simple, elegant software solutions at 
 
 Passionate about building scalable applications, secure backend systems, automation tools, and AI-powered solutions.
 
-## 🔥 What I'm Building With
+##  What I'm Building With
 
 ```typescript
 const myStack = {
